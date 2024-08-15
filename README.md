@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Konerloner
+- 👋 Hi, I’m @numProg
 - 👀 I’m interested in Mathematics and Computer Science.
 - 🌱 I’m currently learning Web development
